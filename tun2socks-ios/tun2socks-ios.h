@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for tun2socks-ios.
+//! Project version number for tun2socks-ios. 1.0
 FOUNDATION_EXPORT double tun2socks_iosVersionNumber;
 
 //! Project version string for tun2socks-ios.
